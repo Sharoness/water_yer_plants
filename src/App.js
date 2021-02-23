@@ -7,7 +7,7 @@ function App() {
         <h1>Water yer plants</h1>
       </header>
       <div>
-        
+      
       </div>
     </div>
   );
