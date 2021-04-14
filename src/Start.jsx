@@ -1,9 +1,11 @@
 import React from 'react';
+import ButtonAdd from './ButtonAdd';
 
 function Start() {
     return (
         <div>
-            You don't have any plants yet, mate.
+            <p>You don't have any plants yet, mate.</p>
+            <ButtonAdd />
         </div>
     )
 }

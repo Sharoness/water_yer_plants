@@ -14,9 +14,6 @@ function App() {
         <h1>Water yer plants</h1>
       </header>
       <Start />
-      <AddPlant />
-      <List />
-      <Info />
       {/* if state is empty -> component Start. Else component List */}
     </div>
   );
