@@ -9,7 +9,9 @@ function App() {
   const [plantlist, setPlantlist] = useState([]);
 
   return (
-      <Layout content={plantlist.length === 0 ? Start : List} />
+      <Layout>
+        {plantlist.length === 0 ? <Start /> : <List />}
+      </Layout>
   );
 }
 
