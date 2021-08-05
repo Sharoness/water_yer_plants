@@ -2,9 +2,9 @@ import React from 'react';
 
 function ButtonAdd() {
     return (
-        <div>
-            button
-        </div>
+        <button>
+            +
+        </button>
     )
 }
 
