@@ -1,11 +1,11 @@
 import React from 'react';
 
-function ButtonAdd() {
+function ButtonEdit() {
     return (
         <button>
-            Add!
+            Edit
         </button>
     )
 }
 
-export default ButtonAdd;
+export default ButtonEdit;

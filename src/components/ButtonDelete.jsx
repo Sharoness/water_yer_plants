@@ -1,11 +1,11 @@
 import React from 'react';
 
-function ButtonAdd() {
+function ButtonDelete() {
     return (
         <button>
-            Add!
+            Delete
         </button>
     )
 }
 
-export default ButtonAdd;
+export default ButtonDelete;

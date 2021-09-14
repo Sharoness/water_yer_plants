@@ -1,11 +1,11 @@
 import React from 'react';
 
-function ButtonAdd() {
+function ButtonAddIcon() {
     return (
         <button>
-            Add!
+            +
         </button>
     )
 }
 
-export default ButtonAdd;
+export default ButtonAddIcon;
